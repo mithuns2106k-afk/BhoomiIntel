@@ -1,0 +1,24 @@
+TITLE: SVAMITVA Scheme: Standard Operating Procedures for Drone-Based Cadastral Inhabited (Abadi) Land Survey and Property Card Issuance
+AUTHOR: Ministry of Panchayati Raj & Survey of India
+CATEGORY: Government Operational Guideline
+THEME: Rural Land Tenure & Drone Mapping
+DISTRICT_TAGS: Varanasi, Jodhpur, Pune
+DATE: 2024-11-20
+
+EXECUTIVE OVERVIEW:
+SVAMITVA (Survey of Villages and Mapping with Improvised Technology in Village Areas) is a Central Sector Scheme providing formal documentation of property rights to rural household owners in inhabited (Abadi) areas using Continuously Operating Reference Stations (CORS) network and unmanned aerial vehicle (drone) technology.
+
+1. METHODOLOGY OF CADASTRAL DRONE SURVEY:
+Traditional rural inhabited abadi areas in India were historically left un-surveyed during colonial revenue settlements, leaving millions without legal titles (Sanad or Property Cards). Under SVAMITVA:
+- First, the village boundaries and individual household parcels are marked with white limestone (chuna) by owners in the presence of Gram Panchayat officials.
+- Survey of India deploys high-accuracy drone flights creating Orthorectified Imagery (ORI) with 5 cm ground sampling distance (GSD).
+- Cadastral maps are extracted from imagery, verified on-ground via public inquiry (objection window of 30-45 days).
+
+2. IMPACT ON DISPUTE PREVENTION AND RURAL CAPITAL FORMATION:
+- In surveyed villages in Varanasi and Jodhpur districts, boundary demarcation disputes between neighbors dropped by 64% within 18 months post-issuance of SVAMITVA Property Cards.
+- The property cards serve as official collateral, unlocking formal institutional credit and agricultural loan eligibility for rural homeowners.
+- Gram Panchayats can generate local tax revenues based on verified GIS spatial property footprints.
+
+3. CHALLENGES & DISPUTE RESOLUTION PROTOCOLS:
+- Objections during the public verification phase primarily concern shared courtyards, pathway rights of way (Rasta disputes), and common village pond or grazing land encroachments.
+- Standard guidelines mandate a three-tier grievance redressal committee at Panchayat, Tehsil, and District collectorate levels to settle boundary disputes before final digital card printing and blockchain registry hashing.

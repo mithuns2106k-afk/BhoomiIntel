@@ -1,0 +1,22 @@
+TITLE: Community Forest Rights (CFR) and Cadastral Title Demarcation: Assessing the Implementation of FRA 2006 in Mineral Corridors
+AUTHOR: Council on Energy, Environment and Water (CEEW) & Odisha Tribal Development Society
+CATEGORY: Case Study & Policy Brief
+THEME: Forest Rights & Tribal Land
+DISTRICT_TAGS: Sambalpur, Wayanad
+DATE: 2024-05-18
+
+EXECUTIVE SUMMARY:
+The Scheduled Tribes and Other Traditional Forest Dwellers (Recognition of Forest Rights) Act, 2006 (FRA) marked a historic shift in Indian land governance by recognizing pre-existing customary tenure over forest dwelling tracts. In mineral-dense zones such as Sambalpur district in Odisha, conflicting claims between forest department notifications, industrial mining leases, and Gram Sabha customary boundaries generate protracted tension.
+
+1. CRITICAL CONFLICT DRIVERS:
+- Incongruent Boundary Demarcation: Revenue village maps often classify forest commons as 'Government Wasteland' or 'Revenue Forest', omitting customary community rights recognized under Gram Sabha CFR claims.
+- Mining Lease Overlaps: State industrial development corporations frequently grant mineral prospecting leases over village forest resource areas without prior informed consent required under PESA 1996 and FRA Section 3(1)(i).
+- Slow Title Processing: Individual Forest Rights (IFR) titling has progressed, but Community Forest Resource (CFR) titling remains stalled at less than 28% of eligible claims due to bureaucratic inter-departmental hurdles between the Forest and Revenue departments.
+
+2. EVIDENCE FROM RE-SURVEY INITIATIVES:
+Pilot programs utilizing handheld GPS and open-source QGIS mapping by Gram Sabha youth committees in Sambalpur enabled the documentation of 42 village community forest boundaries within 9 months. Where CFR titles were formally handed over, unauthorized tree felling decreased by 47% and local non-timber forest produce (NTFP) collector household revenues increased by 31%.
+
+3. KEY POLICY DIRECTIVES:
+- Establish a single unified digital land repository integrating Forest Working Plan maps with Cadastral Revenue parcel maps.
+- Institutionalize Gram Sabha veto powers regarding industrial diversions on pending CFR claim territories.
+- Deploy drone orthophoto mapping for accurate boundary delineation of agro-forestry forest plots.

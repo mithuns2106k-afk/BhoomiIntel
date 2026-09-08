@@ -1,0 +1,20 @@
+TITLE: Digital India Land Records Modernization Programme (DILRMP): Decadal Impact Evaluation on Boundary Disputes and Titling Velocity
+AUTHOR: National Institute of Public Finance and Policy & Dept. of Land Resources
+CATEGORY: National Policy Evaluation
+THEME: Land Records Digitization
+DISTRICT_TAGS: Pune, Varanasi, Bengaluru Rural, Kanchipuram
+DATE: 2025-01-15
+
+EXECUTIVE SUMMARY:
+The Digital India Land Records Modernization Programme (DILRMP), launched to achieve conclusive land titling (Torrens system) with state-guaranteed titles, has completed over 94% digitization of textual Records of Rights (RoRs) across participating pilot districts. This evaluation assesses the impact of computerization, spatial cadastral digitisation, and integration of the sub-registrar registration offices with revenue records.
+
+1. IMPACT ON LAND LITIGATION & BOUNDARY DISPUTES:
+In districts where cadastral maps (Bhuraksha / Naksha) have been geo-referenced and integrated with Record of Rights (e.g., Pune and Bengaluru Rural), boundary-related land disputes declined by an estimated 38% over a five-year monitoring cycle. Real-time online mutation processing reduced the average turnaround time from 94 days to 16 days. However, disputes persist in zones where legacy manual maps with scale distortions were digitized without fresh differential GPS (DGPS) or drone ground surveys.
+
+2. INTEROPERABILITY BETWEEN REGISTRATION AND REVENUE MUTATIONS:
+A critical breakthrough in DILRMP Phase II is the automated trigger of mutation upon property registration. By integrating the registration portal with revenue databases, the phenomenon of double-selling or selling already mortgaged agricultural land dropped by 72% in pilot tehsils of Kanchipuram and Bengaluru Rural. 
+
+3. KEY BOTTLENECKS AND POLICY RECOMMENDATIONS:
+- Legacy Discrepancies: In Varanasi and eastern UP districts, co-shared Khatas (where up to 20 heirs share an undivided plot) create immense friction. Text records show joint ownership without demarcated spatial parcel boundaries on ground.
+- Cadastral Resurvey: Pure text digitization without spatial re-survey cannot resolve adverse possession claims. Modern high-resolution drone survey (as deployed under SVAMITVA) must be scaled to all agricultural lands.
+- Conclusive Titling Transition: States currently operate under 'presumptive titling' under Indian Registration Act 1908 and State Land Revenue Codes. The Ministry recommends a phased transition to Conclusive Titling backed by a Title Guarantee Fund to compensate bona fide buyers in case of state administrative error.

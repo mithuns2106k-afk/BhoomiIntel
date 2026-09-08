@@ -1,0 +1,21 @@
+TITLE: Peri-Urban Land Dynamics and Judicial Bottlenecks in Fast-Growing Metros: Empirical Study of Pune and Bengaluru Rural
+AUTHOR: Centre for Policy Research & National Law School of India University
+CATEGORY: Academic Research
+THEME: Dispute Resolution & Urban Zoning
+DISTRICT_TAGS: Pune, Bengaluru Rural, Kanchipuram
+DATE: 2024-08-10
+
+1. ABSTRACT & INTRODUCTION:
+Land disputes constitute over 66% of all civil litigation in Indian courts and tie up approximately 1.3% of national GDP in stalled infrastructure and frozen capital assets. In peri-urban transition corridors surrounding metropolitan hubs like Pune (Maharashtra) and Bengaluru Rural (Karnataka), agricultural land conversions have catalyzed acute legal conflict.
+
+2. PRIMARY CAUSES OF PERI-URBAN LAND DISPUTES:
+A comprehensive docket review of 3,400 civil title suits revealed five primary root causes:
+a) Asymmetric Land Conversion Information: Speculative land consolidators acquire ancestral agricultural lands from smallholders through power of attorney (PoA) agreements without legal partition among all legal heirs, sparking subsequent inheritance litigation when land values skyrocket post-zoning changes.
+b) Unregularized Layout Formations (Revenue Sites): Subdividing agricultural land into residential plots without requisite Town and Country Planning approvals or converted non-agricultural (NA) orders, leaving buyers with defective or un-registrable deeds.
+c) Antiquated Village Cadastral Maps (Pot-Hissa Discrepancies): Historical survey records fail to account for informal sub-divisions over generations. When IT hubs or ring roads are surveyed, modern DGPS surveys conflict with revenue boundaries, generating boundary overlaps.
+d) PTCL and Inalienable Land Violations: Illegal conveyances of state-granted scheduled caste/scheduled tribe lands violating non-alienation statutory protections.
+
+3. POLICY RECOMMENDATIONS:
+- Mandatory pre-sale digital title verification certificate issued by the District Revenue Authority.
+- Unification of town planning development authorities' master plan GIS layers with cadastral revenue boundaries.
+- Specialized fast-track land dispute tribunals with fixed 180-day summary disposal timelines for peri-urban zoning conflicts.

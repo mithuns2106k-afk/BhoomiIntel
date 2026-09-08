@@ -1,0 +1,20 @@
+TITLE: Alternative Dispute Resolution and Specialized Revenue Courts for Accelerated Land Titling: A Multi-State Comparative Analysis
+AUTHOR: Law Commission of India & NITI Aayog Governance Division
+CATEGORY: Policy Brief
+THEME: Dispute Resolution
+DISTRICT_TAGS: Pune, Varanasi, Bengaluru Rural, Jodhpur
+DATE: 2024-12-02
+
+1. CONTEXT OF JUDICIAL PENDENCY:
+Across India, an estimated 7.8 million land dispute cases remain pending in District Civil Courts and Sub-Divisional Magistrate (SDM) Revenue Courts. The average lifespan of a contested land boundary or inheritance partition lawsuit ranges from 8.2 to 14.5 years. This severe backlog locks up productive capital, impedes public infrastructure acquisitions, and induces recurrent law and order friction.
+
+2. COMPARATIVE FINDINGS FROM SPECIAL REVENUE TRIBUNALS:
+States experimenting with dedicated fast-track land dispute tribunals and specialized Revenue Lok Adalats have shown remarkable improvements:
+- In selected tehsils of Maharashtra (Pune district) and Karnataka (Bengaluru Rural), introducing specialized land referee mediation reduced court caseloads by 44% within two financial years.
+- Digital Evidence Admissibility: Mandating drone-surveyed orthophotos and digitized 7/12 / RTC land mutation timelines as prima facie admissible evidence cut testimony examination periods from 22 months down to 45 days.
+- Pre-Litigation Mediation: Mandatory 60-day mediation before filing regular civil title suits resulted in mutually agreed settlement deeds in 53% of familial boundary partition cases.
+
+3. STRATEGIC POLICY BLUEPRINT:
+- Enact a Model Land Dispute Resolution Act introducing time-bound adjudication (maximum 180 days for first-tier dispute disposal).
+- Deploy AI-assisted automated conflict detection: algorithmically flag conflicting mutation applications and overlapping deed registrations before disputes enter formal litigation.
+- Establish a specialized Land Titling Appellate Tribunal to prevent multi-layered appeals through multiple civil court benches.

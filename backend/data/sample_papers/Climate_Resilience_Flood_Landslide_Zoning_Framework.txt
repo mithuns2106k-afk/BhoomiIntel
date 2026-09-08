@@ -1,0 +1,18 @@
+TITLE: Spatial Zoning and Resilient Land Allocation in Ecologically Sensitive and Riverine Flood Zones
+AUTHOR: National Disaster Management Authority (NDMA) & Indian Institute of Human Settlements
+CATEGORY: Policy Innovation Framework
+THEME: Climate Vulnerability & Land Use
+DISTRICT_TAGS: Kamrup Metropolitan, Wayanad, Varanasi
+DATE: 2024-10-05
+
+1. BACKGROUND & SCOPE:
+Climate-induced disasters are accelerating territorial destabilization across vulnerable agro-ecological zones. In Assam's Brahmaputra valley (Kamrup Metropolitan) and the Western Ghats (Wayanad, Kerala), conventional static cadastral land titles fail to reflect dynamic geological and hydro-meteorological realities.
+
+2. CLIMATE VULNERABILITY MECHANISMS:
+- Riverine Char/Diara Land Dynamics: In Kamrup Metropolitan and Varanasi along the Brahmaputra and Ganga rivers, annual monsoon floods cause severe riverbank erosion and unpredictable silt deposition (alluvion/diluvion). Plots documented in cadastre maps physically disappear into the river, while new silt islands (chars) emerge downstream, triggering violent disputes between displaced farming communities and local land grabbers over unmapped fertile sandbars.
+- Landslide Red-Zones in Wayanad: Extreme precipitation events trigger catastrophic debris flows on deforested tea and monoculture rubber slopes. Existing revenue records do not integrate slope stability hazard ratings, resulting in residential and resort constructions in high-risk zones.
+
+3. PROPOSED POLICY FRAMEWORKS:
+- Dynamic Cadastral Records (Floating Tenure): Introduce spatial attribute tagging in land registry records for riverine zones, where tenure shifts to collective seasonal usufruct rights rather than rigid static parcel demarcations when river courses migrate.
+- Eco-Hazard Zoning & Transferable Development Rights (TDR): Enact mandatory prohibition of residential construction on hillsides exceeding 30 degrees slope in Wayanad. Displaced smallholders should receive TDR certificates redeemable in planned climate-safe peri-urban settlements.
+- Satellite Monitoring: High-resolution temporal Sentinel and Cartosat imagery integration to automatically flag riverbank morphological changes and update revenue maps bi-annually.

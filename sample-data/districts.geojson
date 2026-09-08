@@ -1,0 +1,359 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "source": "BhoomiIntel Sample Land Governance GeoJSON (SIH PS 26019)",
+    "disclaimer": "Sample data for demonstration and policy modeling purposes — clearly labeled as sample data",
+    "updated_at": "2026-03-01T00:00:00Z"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1,
+      "properties": {
+        "id": 1,
+        "name": "Pune",
+        "state": "Maharashtra",
+        "dispute_count": 14280,
+        "dispute_density_per_sqkm": 9.15,
+        "climate_vulnerability_index": 0.42,
+        "land_use_efficiency": 74.5,
+        "agricultural_pct": 52.4,
+        "urban_pct": 28.2,
+        "forest_pct": 11.6,
+        "other_pct": 7.8,
+        "digitization_progress_pct": 86.4,
+        "pending_court_cases": 6840,
+        "population": 9429408,
+        "area_sqkm": 15643,
+        "mutations_processed_monthly": 18200,
+        "common_dispute_types": [
+          "Peri-urban Agricultural-to-Non-Agricultural Conversion Disputes",
+          "Family Partition and Succession Titling Gaps",
+          "Cadastral Map Inaccuracies (Pot-Hissa Inconsistencies)",
+          "Industrial Corridor Land Acquisition Compensation"
+        ],
+        "key_challenges": "Rapid urbanization pressure along IT corridors causing fragmented parcel speculation and legacy 7/12 record discrepancies."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [73.35, 18.25],
+            [73.45, 18.65],
+            [73.72, 19.10],
+            [74.15, 19.22],
+            [74.58, 18.90],
+            [74.85, 18.52],
+            [75.10, 18.20],
+            [74.65, 17.90],
+            [74.20, 18.05],
+            [73.70, 18.15],
+            [73.35, 18.25]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2,
+      "properties": {
+        "id": 2,
+        "name": "Varanasi",
+        "state": "Uttar Pradesh",
+        "dispute_count": 11450,
+        "dispute_density_per_sqkm": 7.46,
+        "climate_vulnerability_index": 0.65,
+        "land_use_efficiency": 68.2,
+        "agricultural_pct": 65.8,
+        "urban_pct": 22.4,
+        "forest_pct": 3.2,
+        "other_pct": 8.6,
+        "digitization_progress_pct": 79.1,
+        "pending_court_cases": 5920,
+        "population": 3676841,
+        "area_sqkm": 1535,
+        "mutations_processed_monthly": 9400,
+        "common_dispute_types": [
+          "Ganga Riverine Diara Land Accretion & Diluvion Rights",
+          "Gram Sabha Common Land Encroachment",
+          "Generational Khata/Khatauni Co-sharing Litigations",
+          "Temple/Religious Trust Land Leases"
+        ],
+        "key_challenges": "High agricultural parcel subdivision index with multiple co-tenants per plot (Khatauni), compounded by seasonal riverine shifting boundaries."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [82.68, 25.25],
+            [82.75, 25.55],
+            [83.05, 25.62],
+            [83.35, 25.48],
+            [83.30, 25.20],
+            [83.15, 25.10],
+            [82.85, 25.12],
+            [82.68, 25.25]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3,
+      "properties": {
+        "id": 3,
+        "name": "Kanchipuram",
+        "state": "Tamil Nadu",
+        "dispute_count": 6320,
+        "dispute_density_per_sqkm": 3.78,
+        "climate_vulnerability_index": 0.58,
+        "land_use_efficiency": 81.3,
+        "agricultural_pct": 46.1,
+        "urban_pct": 34.7,
+        "forest_pct": 7.4,
+        "other_pct": 11.8,
+        "digitization_progress_pct": 92.5,
+        "pending_court_cases": 2840,
+        "population": 2690897,
+        "area_sqkm": 1672,
+        "mutations_processed_monthly": 12600,
+        "common_dispute_types": [
+          "Eri (Irrigation Tank) Poramboke (Government Commons) Encroachment",
+          "Automotive & Electronics Industrial Corridor Buffer Disagreements",
+          "Patta Chitta Record Sync Glitches",
+          "Coastal/Wetland Real Estate Boundary Overlaps"
+        ],
+        "key_challenges": "Pressure on historic traditional tank irrigation commons (Eri poramboke) due to industrial spillover and real estate plotting."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [79.60, 12.65],
+            [79.70, 13.05],
+            [80.05, 13.10],
+            [80.20, 12.85],
+            [80.10, 12.50],
+            [79.80, 12.45],
+            [79.60, 12.65]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4,
+      "properties": {
+        "id": 4,
+        "name": "Kamrup Metropolitan",
+        "state": "Assam",
+        "dispute_count": 8910,
+        "dispute_density_per_sqkm": 5.86,
+        "climate_vulnerability_index": 0.88,
+        "land_use_efficiency": 59.8,
+        "agricultural_pct": 32.5,
+        "urban_pct": 38.0,
+        "forest_pct": 22.5,
+        "other_pct": 7.0,
+        "digitization_progress_pct": 68.2,
+        "pending_court_cases": 4610,
+        "population": 1253938,
+        "area_sqkm": 1520,
+        "mutations_processed_monthly": 6800,
+        "common_dispute_types": [
+          "Brahmaputra Flood Char/Chapori Sandbank Re-emergence Claims",
+          "Wetland (Deepor Beel Ramsar Site) Buffer Encroachments",
+          "Tribal Belt & Block Transfer Violations (Assam Land & Revenue Reg)",
+          "Hillslope Eco-sensitive Settlement Conflicts"
+        ],
+        "key_challenges": "Extreme annual river erosion displacing titleholders, creating complex claims over newly emerged sediment islands (chars)."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [91.50, 26.05],
+            [91.60, 26.35],
+            [91.95, 26.30],
+            [92.10, 26.10],
+            [91.90, 25.95],
+            [91.65, 25.98],
+            [91.50, 26.05]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5,
+      "properties": {
+        "id": 5,
+        "name": "Bengaluru Rural",
+        "state": "Karnataka",
+        "dispute_count": 12180,
+        "dispute_density_per_sqkm": 5.31,
+        "climate_vulnerability_index": 0.49,
+        "land_use_efficiency": 78.4,
+        "agricultural_pct": 55.2,
+        "urban_pct": 29.8,
+        "forest_pct": 8.0,
+        "other_pct": 7.0,
+        "digitization_progress_pct": 94.1,
+        "pending_court_cases": 5780,
+        "population": 990923,
+        "area_sqkm": 2295,
+        "mutations_processed_monthly": 15400,
+        "common_dispute_types": [
+          "Gomala (Village Grazing Land) Regularization Disputes",
+          "SC/ST PTCL Act (Prohibition of Transfer of Certain Lands) Claims",
+          "Bhoomi Portal vs Survey Settlement & Land Records Inconsistencies",
+          "Airport Expressway Special Investment Region Acquisitions"
+        ],
+        "key_challenges": "High speculative real estate valuation driving aggressive litigation on historical grantee lands and village commons."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [77.20, 13.15],
+            [77.35, 13.55],
+            [77.75, 13.60],
+            [77.95, 13.35],
+            [77.80, 13.00],
+            [77.45, 12.90],
+            [77.20, 13.15]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6,
+      "properties": {
+        "id": 6,
+        "name": "Jodhpur",
+        "state": "Rajasthan",
+        "dispute_count": 5420,
+        "dispute_density_per_sqkm": 0.24,
+        "climate_vulnerability_index": 0.76,
+        "land_use_efficiency": 62.1,
+        "agricultural_pct": 48.0,
+        "urban_pct": 8.5,
+        "forest_pct": 2.5,
+        "other_pct": 41.0,
+        "digitization_progress_pct": 82.3,
+        "pending_court_cases": 2410,
+        "population": 3687002,
+        "area_sqkm": 22850,
+        "mutations_processed_monthly": 8100,
+        "common_dispute_types": [
+          "Sacred Groves (Oran) & Grazing Commons (Gauchar) Boundary Litigations",
+          "Mega Solar Park & Transmission Corridor Land Leases",
+          "Arid Pasture Rights vs Revenue Land Allotment",
+          "Colonization Land Ceiling Exceptions in Canal Irrigation Zones"
+        ],
+        "key_challenges": "Large desert commons (Oran and Gauchar) lacking demarcated cadastral boundaries, colliding with renewable energy infrastructure projects."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [71.80, 26.20],
+            [72.10, 27.50],
+            [73.15, 27.60],
+            [73.65, 26.90],
+            [73.40, 26.00],
+            [72.50, 25.90],
+            [71.80, 26.20]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7,
+      "properties": {
+        "id": 7,
+        "name": "Sambalpur",
+        "state": "Odisha",
+        "dispute_count": 7850,
+        "dispute_density_per_sqkm": 1.18,
+        "climate_vulnerability_index": 0.69,
+        "land_use_efficiency": 66.7,
+        "agricultural_pct": 41.2,
+        "urban_pct": 11.5,
+        "forest_pct": 39.8,
+        "other_pct": 7.5,
+        "digitization_progress_pct": 74.6,
+        "pending_court_cases": 3920,
+        "population": 1041099,
+        "area_sqkm": 6657,
+        "mutations_processed_monthly": 5900,
+        "common_dispute_types": [
+          "Forest Rights Act (FRA) Individual & Community Rights Recognition",
+          "Coal Mining & Thermal Power Land Rehabilitation Gaps",
+          "Hirakud Reservoir Submerged Land Resurvey Litigations",
+          "Scheduled Tribe Land Non-Alienation Regulations (OSATIP Act)"
+        ],
+        "key_challenges": "Overlap of dense customary forest tracts with mineral leases, necessitating precise FRA cadastral titling to safeguard tribal livelihoods."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [83.60, 21.30],
+            [83.85, 21.85],
+            [84.45, 21.90],
+            [84.75, 21.40],
+            [84.40, 20.95],
+            [83.90, 21.00],
+            [83.60, 21.30]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8,
+      "properties": {
+        "id": 8,
+        "name": "Wayanad",
+        "state": "Kerala",
+        "dispute_count": 4210,
+        "dispute_density_per_sqkm": 1.98,
+        "climate_vulnerability_index": 0.84,
+        "land_use_efficiency": 72.8,
+        "agricultural_pct": 44.0,
+        "urban_pct": 9.2,
+        "forest_pct": 41.5,
+        "other_pct": 5.3,
+        "digitization_progress_pct": 89.7,
+        "pending_court_cases": 1820,
+        "population": 817420,
+        "area_sqkm": 2131,
+        "mutations_processed_monthly": 4700,
+        "common_dispute_types": [
+          "Ecologically Fragile Land (EFL) Demarcation & Plantation Exemptions",
+          "Landslide Risk Red-Zone Relocation & Resettlement Title Grievances",
+          "Adivasi Vested Forest Land Allotment Disputes",
+          "Inter-state Border Agricultural Buffer Zone Discrepancies"
+        ],
+        "key_challenges": "Severe climate vulnerability to extreme precipitation landslides requiring spatial zoning bans, balanced against tribal and plantation smallholder tenure."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [75.90, 11.60],
+            [76.05, 11.95],
+            [76.35, 11.98],
+            [76.50, 11.75],
+            [76.40, 11.50],
+            [76.10, 11.45],
+            [75.90, 11.60]
+          ]
+        ]
+      }
+    }
+  ]
+}
