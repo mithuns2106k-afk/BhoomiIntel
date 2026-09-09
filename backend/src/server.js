@@ -90,11 +90,11 @@ app.get('/api/dashboard-metrics', (req, res) => {
           totalReduction += Number(impact.dispute_reduction_pct);
           simCountWithReduction++;
         }
-      } catch (e) {}
+      } catch (e) { }
     }
 
-    const avgDisputeReduction = simCountWithReduction > 0 
-      ? Math.round(totalReduction / simCountWithReduction) 
+    const avgDisputeReduction = simCountWithReduction > 0
+      ? Math.round(totalReduction / simCountWithReduction)
       : 0;
 
     const districtStats = db.prepare(`
@@ -176,7 +176,7 @@ app.use((err, req, res, next) => {
   });
 });
 
-app.listen(PORT, () => {
+app.listen(PORT, '0.0.0.0', () => {
   console.log(`=======================================================`);
   console.log(`BhoomiIntel Land Governance Backend running on port ${PORT}`);
   console.log(`Health check: http://localhost:${PORT}/api/health`);
